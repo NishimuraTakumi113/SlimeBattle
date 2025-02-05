@@ -46,7 +46,9 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
-Assets/bgm/*.mp3
+
+# Gradle cache directory
+Assets/bgm/
 
 # Unity3D generated meta files
 *.pidb.meta
